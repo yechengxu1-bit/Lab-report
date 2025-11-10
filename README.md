@@ -26,5 +26,5 @@ Summary: Satellite visibility remained adequate, ranging from 14 to 26 satellite
 
 # Results and Discussion
 
-The SPP algorithm processed 450 epochs of GNSS data. The estimated receiver coordinates varied within the following ranges
+The multi-constellation support, particularly the dominant contribution from BeiDou satellites at high elevations, improved satellite availability and geometry (as indicated by the average PDOP of 2.04). However, these advantages could not fully mitigate the fundamental challenges posed by severe multipath and signal obstructions.
 
