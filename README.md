@@ -1,4 +1,4 @@
-# Lab-report introduction
+# Lab-report Introduction
 
 This report shows how to structure a PolyU lab report using the hkpolyu-labreport class. It includes examples of figures, tables, equations, code listings, and citations.
 
@@ -12,11 +12,11 @@ Work flow:
 
 2.Select COM4
 
-3.start recording
+3.Start recording
 
-4.follow the route
+4.Follow the route
 
-5.stop recording
+5.Stop recording
 
 # Raw Data Analysis
 
